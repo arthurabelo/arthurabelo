@@ -14,11 +14,7 @@
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
   ![SPRING](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SPRINGboot)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
-<p>
-<a href="https://github.com/arthurabelo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurabelo&count_private=true&show_icons=true&theme=dark" />
-</a>
-</p>
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurabelo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurabelo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurabelo&theme=nord_dark) |
 | :-: | :-: | :-: |
