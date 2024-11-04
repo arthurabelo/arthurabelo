@@ -14,6 +14,8 @@
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
   ![SPRING](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SPRINGboot)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+  ![Risc V](https://img.shields.io/badge/-RiscV-333333?style=flat&logo=RiscV)
+  ![Haskell](https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell)
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurabelo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurabelo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurabelo&theme=nord_dark) |
