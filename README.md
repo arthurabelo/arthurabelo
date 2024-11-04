@@ -8,12 +8,12 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=VisualStudio)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)   
-  #### :books: Aprendendo
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL) 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
-  ![SPRING](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SPRINGboot)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+  #### :books: Aprendendo
+  ![SPRING](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SPRINGboot)
   ![Risc V](https://img.shields.io/badge/-RiscV-333333?style=flat&logo=RiscV)
   ![Haskell](https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell)
 
