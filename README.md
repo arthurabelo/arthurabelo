@@ -10,6 +10,7 @@
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=VisualStudio)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL) 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c)
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   #### :books: Aprendendo
