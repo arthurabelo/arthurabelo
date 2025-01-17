@@ -1,4 +1,4 @@
-### Olá, eu sou o Arthur 👋
+###  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2300A2DD&center=false&vCenter=false&lines=Ol%C3%A1,%20eu%20sou%20o%20Arthur%20%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - :books: Estudante de **Ciência da Computação** na **Universidade Federal do Piauí - UFPI**.
 
